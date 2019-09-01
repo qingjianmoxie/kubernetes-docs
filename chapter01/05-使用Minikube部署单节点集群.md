@@ -144,7 +144,7 @@ yum -y remove gcc perl make kernel-devel   xdg-utils
 
 
 ## 自动化安装脚本
-包地址github.com/zeyangli/
+资源地址：https://github.com/zeyangli/kubernetes-docs/blob/master/resources/minikube-install-v1.15.2-190901.tar.gz
 
 ```shell
 #!/bin/bash
